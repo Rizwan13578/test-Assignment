@@ -1,0 +1,212 @@
+.navic{
+    justify-content: end;
+    margin-right: 50px;
+}
+.talk{
+    color: red;
+}
+.man{
+   
+   padding-bottom: 30px;
+}
+.bt{
+    height: 40px;
+    width: 180px;
+    margin-left: 30px;
+    margin-top: 70px;
+    margin-bottom: 30px;
+    color: red;
+    background-color: #fdecec;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+}
+.divimg{
+    height: 600px;
+    width: 600px;
+    /* border: 2px solid black; */
+    float: right;
+    margin-top: 25px;
+}
+.dia{
+    height:490px;
+    width: 650px;
+    /* border: 2px solid black; */
+}
+.dialauge{
+    font-size: 80px;
+    margin-left: 30px;
+}
+.span1{
+    color: red;
+}
+.try{
+    margin-left: 30px;
+    height: 50px;
+    width: 130px;
+    margin-top: 20px;
+    font-size: 25px;
+    background-color: #f86061;
+    border-radius: 10px;
+    border: none;
+    color: white;
+}
+.para1{
+    padding-left: 30px;
+    margin-top: 35px;
+
+}
+.colour{
+    height: 800px;
+    width: 100%;
+    background-color: #fef5f5;
+    margin-top: 50px;
+}
+h5{
+    color: red;
+    margin-top: 50px;
+}
+.nv{
+    height: 200px;
+    width: 500px;
+    /* border: 2px solid black; */
+}
+.conversation{
+    font-size: 40px;
+}
+.alcard{
+    width: 100%;
+    height: 550px;
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    
+}
+.upload{
+    text-decoration: none;
+    color: black;
+}
+.bp{
+    margin: 30px;
+}
+.recorddiv{
+    height: 300px;
+    width: 600px;
+    /* border: 2px solid black; */
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+.divget{
+    height: 280px;
+    width: 300px;
+    /* border: 2px solid black; */
+    float: right;
+}
+.collabTalk{
+    margin-top: 100px;
+    margin-left: 30px;
+    
+}
+.get{
+    font-size: 50px;
+}
+.area1{
+  margin-left:260px;
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #fdecec;
+  border-radius: 20px;
+  border: none;
+
+}
+H4{
+    margin-top: 20px;
+    margin-left: 600px;
+}
+.area2{
+    height: 200px;
+    width: 300px;
+    /* border:1px solid black ; */
+    border-radius: 50px;
+}
+.input1{
+    background-color: #fdecec;
+    border-radius: 10px;
+    border: none;
+    height: 35px;
+    margin: 10px;
+    margin-left: 50px;
+    width: 200px;
+}
+h6{
+    margin-left: 120px;
+}
+.areaful{
+    width: 800px;
+    height: 30%;
+    /* border: 2px solid black; */
+    margin-left: 350px;
+   
+}
+.alinput{
+    height: 400px;
+    width: 50%;
+    border: 2px solid black;
+    margin-left: 300px;
+    margin-top: 50px;
+    display: flex;
+}
+.input2{
+    background-color: #fdecec;
+    border-radius: 10px;
+    border: none;
+    height: 35px;
+    
+    /* margin-left: 10px; */
+    width: 100px;
+    padding: 10px;
+    
+}
+.yu{
+    height: 350px;
+    width: 150px;
+    /* border: 2px solid black; */
+    margin-left: 40px;
+    margin-top: 50px;
+}
+.as{
+    margin-left: 50px;
+}
+.df{
+    height: 200px;
+    width: 600px;
+    /* border: 2px solid black; */
+    margin-left: 150px;
+    display: flex;
+}
+.jk{
+    height: 200px;
+    width: 350px;
+    /* border: 2px solid black; */
+    margin-top: 50px;
+    margin-left: 15px;
+}
+.download{
+    background-color: orangered;
+    color: white;
+    height: 50px;
+    width: 150px;
+    font-size: 30px;
+    border: none;
+    border-radius: 10px;
+
+}
+.er{
+    height: 250;
+    width: 500px;
+    border: 2px solid black;
+    margin-top: 50px;
+    margin-left: 300px;
+}
